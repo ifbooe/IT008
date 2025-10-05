@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\BTH1_BuiDucThien_23521475\\Bai02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9FBEC6-61B1-4682-84E7-455FD9E8482C}|Bai02.csproj|c:\\users\\admin\\desktop\\bth1_buiducthien_23521475\\bai02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9FBEC6-61B1-4682-84E7-455FD9E8482C}|Bai02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9FBEC6-61B1-4682-84E7-455FD9E8482C}|Bai02.csproj|c:\\users\\admin\\desktop\\bth1_buiducthien_23521475\\bai02\\bai02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E9FBEC6-61B1-4682-84E7-455FD9E8482C}|Bai02.csproj|solutionrelative:bai02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai02.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BTH1_BuiDucThien_23521475\\Bai02\\Bai02.csproj",
+              "RelativeDocumentMoniker": "Bai02.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BTH1_BuiDucThien_23521475\\Bai02\\Bai02.csproj",
+              "RelativeToolTip": "Bai02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-22T07:43:00.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BTH1_BuiDucThien_23521475\\Bai02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BTH1_BuiDucThien_23521475\\Bai02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:42:37.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

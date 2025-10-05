@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\bin\Debug\net8.0\Bai05.exe
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\bin\Debug\net8.0\Bai05.deps.json
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\bin\Debug\net8.0\Bai05.runtimeconfig.json
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\bin\Debug\net8.0\Bai05.dll
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\bin\Debug\net8.0\Bai05.pdb
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\obj\Debug\net8.0\Bai05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\obj\Debug\net8.0\Bai05.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\obj\Debug\net8.0\Bai05.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\obj\Debug\net8.0\Bai05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\obj\Debug\net8.0\Bai05.dll
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\obj\Debug\net8.0\refint\Bai05.dll
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\obj\Debug\net8.0\Bai05.pdb
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\obj\Debug\net8.0\Bai05.genruntimeconfig.cache
+C:\Users\Admin\Desktop\BTH1_BuiDucThien_23521475\Bai05\obj\Debug\net8.0\ref\Bai05.dll
