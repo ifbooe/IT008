@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\bin\Debug\net8.0\BT04.exe
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\bin\Debug\net8.0\BT04.deps.json
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\bin\Debug\net8.0\BT04.runtimeconfig.json
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\bin\Debug\net8.0\BT04.dll
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\bin\Debug\net8.0\BT04.pdb
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\obj\Debug\net8.0\BT04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\obj\Debug\net8.0\BT04.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\obj\Debug\net8.0\BT04.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\obj\Debug\net8.0\BT04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\obj\Debug\net8.0\BT04.dll
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\obj\Debug\net8.0\refint\BT04.dll
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\obj\Debug\net8.0\BT04.pdb
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\obj\Debug\net8.0\BT04.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Năm 3 kỳ 1\Lập trình trực quan\Thực hành\Tuần 2\BT04\obj\Debug\net8.0\ref\BT04.dll
