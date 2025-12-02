@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\BTTH4\BT04\bin\Debug\BT04.exe.config
+C:\Users\User\Desktop\BTTH4\BT04\bin\Debug\BT04.exe
+C:\Users\User\Desktop\BTTH4\BT04\bin\Debug\BT04.pdb
+C:\Users\User\Desktop\BTTH4\BT04\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\BTTH4\BT04\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\BTTH4\BT04\obj\Debug\BT04.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BTTH4\BT04\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\BTTH4\BT04\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\BTTH4\BT04\obj\Debug\BT04.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\BTTH4\BT04\obj\Debug\BT04.Form1.resources
+C:\Users\User\Desktop\BTTH4\BT04\obj\Debug\BT04.Properties.Resources.resources
+C:\Users\User\Desktop\BTTH4\BT04\obj\Debug\BT04.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BTTH4\BT04\obj\Debug\BT04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BTTH4\BT04\obj\Debug\BT04.exe
+C:\Users\User\Desktop\BTTH4\BT04\obj\Debug\BT04.pdb
+C:\Users\User\Desktop\BTTH4\BT04\obj\Debug\BT04.exe.config

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\BTTH4\BT05\bin\Debug\BT05.exe.config
+C:\Users\User\Desktop\BTTH4\BT05\bin\Debug\BT05.exe
+C:\Users\User\Desktop\BTTH4\BT05\bin\Debug\BT05.pdb
+C:\Users\User\Desktop\BTTH4\BT05\obj\Debug\BT05.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BTTH4\BT05\obj\Debug\BT05.quanlysinhvien.resources
+C:\Users\User\Desktop\BTTH4\BT05\obj\Debug\BT05.Properties.Resources.resources
+C:\Users\User\Desktop\BTTH4\BT05\obj\Debug\BT05.themsinhvien.resources
+C:\Users\User\Desktop\BTTH4\BT05\obj\Debug\BT05.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BTTH4\BT05\obj\Debug\BT05.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BTTH4\BT05\obj\Debug\BT05.exe
+C:\Users\User\Desktop\BTTH4\BT05\obj\Debug\BT05.pdb
+C:\Users\User\Desktop\BTTH4\BT05\obj\Debug\BT05.exe.config

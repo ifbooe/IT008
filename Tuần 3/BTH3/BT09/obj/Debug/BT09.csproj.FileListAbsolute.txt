@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\BTTH3\BT09\bin\Debug\BT09.exe.config
+C:\Users\User\Desktop\BTTH3\BT09\bin\Debug\BT09.exe
+C:\Users\User\Desktop\BTTH3\BT09\bin\Debug\BT09.pdb
+C:\Users\User\Desktop\BTTH3\BT09\obj\Debug\BT09.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BTTH3\BT09\obj\Debug\BT09.Form1.resources
+C:\Users\User\Desktop\BTTH3\BT09\obj\Debug\BT09.Properties.Resources.resources
+C:\Users\User\Desktop\BTTH3\BT09\obj\Debug\BT09.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BTTH3\BT09\obj\Debug\BT09.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BTTH3\BT09\obj\Debug\BT09.exe
+C:\Users\User\Desktop\BTTH3\BT09\obj\Debug\BT09.pdb
+C:\Users\User\Desktop\BTTH3\BT09\obj\Debug\BT09.exe.config

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\BTTH3\BT07\bin\Debug\BT07.exe.config
+C:\Users\User\Desktop\BTTH3\BT07\bin\Debug\BT07.exe
+C:\Users\User\Desktop\BTTH3\BT07\bin\Debug\BT07.pdb
+C:\Users\User\Desktop\BTTH3\BT07\obj\Debug\BT07.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BTTH3\BT07\obj\Debug\BT07.Form1.resources
+C:\Users\User\Desktop\BTTH3\BT07\obj\Debug\BT07.Properties.Resources.resources
+C:\Users\User\Desktop\BTTH3\BT07\obj\Debug\BT07.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BTTH3\BT07\obj\Debug\BT07.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BTTH3\BT07\obj\Debug\BT07.exe
+C:\Users\User\Desktop\BTTH3\BT07\obj\Debug\BT07.pdb
+C:\Users\User\Desktop\BTTH3\BT07\obj\Debug\BT07.exe.config
