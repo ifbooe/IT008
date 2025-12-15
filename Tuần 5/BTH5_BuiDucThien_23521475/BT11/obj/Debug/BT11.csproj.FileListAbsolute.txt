@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\BTH5_BuiDucThien_23521475\BT11\bin\Debug\BT11.exe.config
+C:\Users\User\Desktop\BTH5_BuiDucThien_23521475\BT11\bin\Debug\BT11.exe
+C:\Users\User\Desktop\BTH5_BuiDucThien_23521475\BT11\bin\Debug\BT11.pdb
+C:\Users\User\Desktop\BTH5_BuiDucThien_23521475\BT11\obj\Debug\BT11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BTH5_BuiDucThien_23521475\BT11\obj\Debug\BT11.Form1.resources
+C:\Users\User\Desktop\BTH5_BuiDucThien_23521475\BT11\obj\Debug\BT11.Properties.Resources.resources
+C:\Users\User\Desktop\BTH5_BuiDucThien_23521475\BT11\obj\Debug\BT11.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BTH5_BuiDucThien_23521475\BT11\obj\Debug\BT11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BTH5_BuiDucThien_23521475\BT11\obj\Debug\BT11.exe
+C:\Users\User\Desktop\BTH5_BuiDucThien_23521475\BT11\obj\Debug\BT11.pdb
+C:\Users\User\Desktop\BTH5_BuiDucThien_23521475\BT11\obj\Debug\BT11.exe.config
